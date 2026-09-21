@@ -34,4 +34,4 @@ This project intentionally skips `Pillow` and other image libraries — the goal
 
 ## License
 
-TBD
+MIT
