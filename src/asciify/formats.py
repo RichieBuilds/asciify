@@ -1,5 +1,5 @@
 from enum import Enum, auto
 
 
-class Formart(Enum):
+class Format(Enum):
     PNG = auto()
